@@ -1,2 +1,2 @@
-# drod32.github.io
+# my favorite pizza
 HTML, CSS, and JavaScript
