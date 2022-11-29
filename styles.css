@@ -1,0 +1,55 @@
+body {background-image:
+    url(https://www.wallmur.com/media/catalog/pdata/cache/1/crop_image/1100x/040ec0/p/i/cartoon-colorful-fast-foods-and-pizza-wallpaper-mural-wm-6857661311ss-41480197.jpg)
+}
+body {
+    margin: auto;
+    padding: 30px;
+    background-color: orangered; 
+}
+h1 {
+    width: 30%;
+    font-size: xx-large; 
+    color: black;
+    background-color: orangered; 
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+h2 {
+    font-size: large; 
+    width: 25%;
+    color: black;
+    background-color: orange;
+    text-align: center;
+}
+img { 
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+p {
+    width: 15%;
+    text-align: center;
+    color: black;
+    background-color: orange;
+    font-size: larger;
+    font-style: bold;
+}
+blockquote {
+    text-align: left;
+    color: black;
+    background-color: orange;
+    font-size: large;
+}
+ul {
+    
+    background-color: orange;
+    list-style-image: url("https://cdn-icons-png.flaticon.com/512/3595/3595458.png");
+    
+
+    width: 100%;
+}
+
+
+
+
